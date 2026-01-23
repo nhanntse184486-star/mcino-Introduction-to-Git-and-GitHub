@@ -1,5 +1,4 @@
-curl -X GET https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
-
-Fork successful:
-nhanntse184486-star/mcino-Introduction-to-Git-and-GitHub
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-Github
 
